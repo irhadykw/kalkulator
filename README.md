@@ -1,2 +1,2 @@
 # kalkulator
-# Membuat kalkulator berbasis web dengan HTML, CSS, dan Javascript
+Membuat kalkulator berbasis web dengan HTML, CSS, dan Javascript
