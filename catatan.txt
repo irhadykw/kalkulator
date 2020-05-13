@@ -1,0 +1,4 @@
+Project ini merupakan ini project individu yang diberikan dalam pelatihan DTS 2020 yang merupakan kerjasama antara Kementrian Kominfo RI dengan Progate. Diproyek ini dilakukan beberapa tambahan yang tidak ada di panduan yang diberikan oleh Progate, diantaranya:
+(1) Penambahan fungsi percentage
+(2) Menambahkan responsive
+(3) Perbaikan tampilan angka di belakang koma menggunakan fungsi .toFixed()
